@@ -9,7 +9,7 @@
 **Integrantes:**
 * *Soledy Yuliana García Tobon*
 * *Mariana Echeverry Ocampo*
-* *Nicole Dahiana Arango Arredondo*
+* *Nicol Dahiana Arango Arredondo*
 * *Juan Carlos Ocampo Montoya*
 
 
