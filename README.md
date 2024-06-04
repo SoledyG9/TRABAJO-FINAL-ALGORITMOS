@@ -1,6 +1,18 @@
-# TRABAJO-FINAL-ALGORITMOS
-#Integrantes
-Mariana Echeverri Ocampo
-Soledy Yuliana García Tobón
-Nicol Dahiana Arango 
-Juan Carlos Ocampo
+**Docente:**
+
+* *Victor Hugo Mercado*
+
+**Integrantes:**
+* *Soledy Yuliana García Tobon*
+* *Mariana Echeverry Ocampo*
+* *Nicole Dahiana Arango Arredondo*
+* *Juan Carlos Ocampo Montoya*
+
+
+
+
+##              Ingeniería Industrial
+
+##              Facultad de Ingeniería
+
+##             Universidad de Antioquia
